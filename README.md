@@ -17,4 +17,4 @@ you need to specify such peers configuration (shown for 'host'):
 </peers>
 ```
 
-As you can see, peers configuaration considers the directions of peer-to-peer route, which increase the number of options of how peers can be orginized. 
+As you can see, peers configuaration considers the directions of peer-to-peer route, which increases the number of options of how peers can be organized. 
